@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif; 
+    background-color: #eceae7;    
+}
+
+b{
+    line-height: 20px;
+}
+p{
+    padding: 5px;
+}
+
+.formulario{
+	position: relative;
+	color: black;
+	width: 48%;
+	height:100%;
+	border-radius: 10px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.cadastro{
+	text-align: center;
+	text-decoration: underline;
+	color: #b00b18;
+}
+
+input {
+	border-width: medium;
+	border-style: solid;
+	border-color: #eceae7;
+	border-radius: 10px;
+	background-color: #ffffff;
+	height: 16px;
+	line-height: 1.5;
+}
+
+button{
+	margin-left: 20px;
+	float: left;
+	border-radius: 10px;
+	border-color: #b00b18;
+	background-color: #b00b18;
+	position: absolute;
+	color: white;
+}
+.fundo{
+	float: right;
+	height: 657px;
+	width: 50%;
+	border: none;
+}
+.img{
+	height: 100%;
+	width: 100%;
+}
+
+.detalhe{
+    color: #b00b18;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.rodape{
+	float: left;
+    background-color: #2e3e46;
+    height: 220px;
+    width: 50%;
+}
+.fatec{
+    float: left;
+    margin-left: 15px;
+    background-color: #2e3e46;
+    width: 50%;
+    color: white;
+    height: 220px;
+}
+
+.direito{
+	float: left;
+    background-color: #151d20;
+    width: 50%;
+    color: white;
+    text-align: center;
+    height: 25px;
+}
+#magin{
+    margin: 0px;
+}
