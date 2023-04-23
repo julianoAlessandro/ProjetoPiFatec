@@ -1,4 +1,4 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +7,6 @@
     <title> Cadastro Edital</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="cadastro edital.css"> 
-
 	</head>
 	<body>
  	
@@ -42,7 +41,7 @@
     </div>
    
    <h3>Cadastro de Edital</h3>
-	<form action="Login Administrador.html" method="Post"
+	<form action="cadastroGravar.php" method="Post"
 	      enctype="multipart/form-data"> 
 	<label for="nome">Nº Edital</label>
 	<input type="text" name="nºedital" id="nºedital">
@@ -54,44 +53,39 @@
 		<option value="DSM" selected>Desenvolvimento de Software Multiplataforma</option>
 		<option value="GE" selected>Gestão Empresarial</option>
 		<option value="GPI" selected>Gestão Produção Industrial</option>
-		<option value="selecione" selected>Selecione</option> 
 		</select> <br>
 		
 	<label for="nome disciplina">Nome Disciplina</label>
-	<input type="text" name="nome disciplina" id="nome disciplina"> <br>
+	<input type="text" name="disciplina" id="nome disciplina"> <br>
 	
 	<label for="carga horaria">Carga Horária</label>
-	<input type="text" name="carga horaria" id="carga horaria"> <br>
+	<input type="text" name="cargaH" id="carga horaria"> <br>
 
 	<label for="horario">Horário</label>
 	<input type="text" name="horario" id="horario"> <br>
+
+    <input type="submit" value="  Cadastrar Edital">
 		  
-	<label for="edital">Edital</label>
-	<select id="edital" name="edital">
-	    <option value="EE" selected>Edital Enterno</option>
-		<option value="EI" selected>Edital Interno</option>
-		<option value="selecione" selected>Selecione</option>
-		</select> <br>
+	
+      
+   	<!-- 
+
+<form action="#" method="POST">
+		<div class="encaminha">
+			<input type="submit" value="EncaminharCoordenador"><br>
+		<input type="submit" value="EncaminharEmail"><br>
+
+		</div>
 		
-	<label for="upload">Upload Edital</label>
-	<input type="file" name="upload" id="upload"> 
-   
-   <div class="p_edital">
-   Cadastrar Edital
-   </div> 
-   
-   <div class="font"> </div>   
-    
-	<div class="box_check"> </div>  
+	</form>
+
+	aqui será necessário criar um forms para o mesmo enviar tais arquivos para a area do coordenador e email, logo 
+	precisamos desenvolver ainda tal ideia
 	
-	<div class="box_check2"> </div> 
+	-->
 	
-	<p> Encaminhar ao coordenador</p>
 	
-	<div class="p2">  
-	 <p>Enviar e-mail aos professores</p> 
-	 </div>
-	 
+		 
 		</form>
 	 
 		</body>
