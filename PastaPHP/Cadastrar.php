@@ -7,19 +7,39 @@ class Cadastrar{
     public $horario;
 
     public function inserir(){
-        $sql = "INSERT INTO tb_cadastro (nºedital,curso,disciplina,cargaH,horario) VALUES(
-        '".$this->nºedital."',
-        '".$this->curso."' ,
-        '".$this->disciplina."' ,
-        '".$this->cargaH."' ,
-        '".$this->horario."' 
-       
-        )";
-
-        $conexao = new PDO('mysql:host=127.0.0.1:3307;dbname=cadastro_edital','root','');
-        //executa a string  SQL na conexao, inserindo os dados
-        $conexao->exec($sql);
-       echo "Registro gravado com sucesso!";
+            // Comando INSERT para a tabela "cursos"
+            $sqlCursos = "INSERT INTO cursos (Nome_Curso) VALUES (
+                '".$this->curso."'
+            )";
+        
+            // Comando INSERT para a tabela "disciplinas"
+            $sqlDisciplinas = "INSERT INTO disciplinas (Nome_Disciplina) VALUES (
+                '".$this->disciplina."'
+            )";
+        
+            // Comando INSERT para a tabela "edital"
+            $sqlEdital = "INSERT INTO edital (N_edital) VALUES (
+                '".$this->nºedital."'
+            )";
+        
+            // Comando INSERT para a tabela "curso_disciplina"
+            $sqlCursoDisciplina = "INSERT INTO curso_disciplina (Horário, Carga_horario) VALUES (
+                '".$this->horario."',
+                '".$this->cargaH."' 
+            )";
+        
+            // Conexão com o banco de dados
+            $conexao = new PDO('mysql:host=127.0.0.1:3307;dbname=banco_editais','root','');
+        
+            // Execução dos comandos INSERT na ordem desejada
+            $conexao->exec($sqlEdital);
+            $conexao->exec($sqlCursos);
+            $conexao->exec($sqlDisciplinas);
+            $conexao->exec($sqlCursoDisciplina);
+        
+            echo "Registro gravado com sucesso!";
+        
+        
        
 
 
@@ -28,7 +48,7 @@ class Cadastrar{
 
     public function listar(){
         $sql = "SELECT * FROM tb_cadastro";
-        $conexao = new PDO('mysql:host=127.0.0.1:3307;dbname=cadastro_edital','root','');
+        $conexao = new PDO('mysql:host=127.0.0.1:3307;dbname=banco_editais','root','');
         $resultado = $conexao->query($sql);
         $lista = $resultado->fetchALL();
         //retorna o array contendo todos os registros da tabela "tb_turmas"
