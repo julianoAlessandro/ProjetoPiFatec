@@ -18,44 +18,47 @@ No 2º período, a disciplina-chave é Engenharia de Software II e as disciplina
 Para o desenvolvimento do PI serão empregados conhecimentos práticos dos
 modelos ágeis de desenvolvimento de software. Está prevista a utilização dos seguintes
 </p>
-<h4>recursos:</h4><br>
-• PMCanvas, para planejamento inicial do projeto.
-• Trello ou Jira, para registro e acompanhamento das tarefas do projeto.
-• Github, para repositório do projeto e portifólio do aluno.
-• LucidChart ou StarUML para a elaboração de modelos e diagramas.
-• Oracle Data Modeller para modelagem de banco de dados.
-• HTML, CSS, PHP.
-O resultado do projeto PI-2 será uma aplicação web e a documentação associada.
-Tema
+<hr>
+<h3>recursos:</h3><br>
+• PMCanvas, para planejamento inicial do projeto.<br>
+• Trello ou Jira, para registro e acompanhamento das tarefas do projeto.<br>
+• Github, para repositório do projeto e portifólio do aluno.<br>
+• LucidChart ou StarUML para a elaboração de modelos e diagramas.<br>
+• Oracle Data Modeller para modelagem de banco de dados.<br>
+• HTML, CSS, PHP.<br>
+O resultado do projeto PI-2 será uma aplicação web e a documentação associada.<br>
+<h3>Tema:</h3>
+<p>
 • Portal para Editais de Ampliação de Aulas para a Fatec Itapira
 A Fatec de Itapira necessita de um Portal para Editais Internos e Externos de processos
 de ampliação de aulas dos professores. Atualmente a Fatec Itapira trata de uma grande
 quantidade de editais e não há uma forma automatizada para o registro, divulgação e
 tratamento desse processo.
-Os atores envolvidos são: administrador, coordenador, professor.
-São atividades do administrador:
-• cadastrar editais
-• divulgar os editais para os professores
-• receber as inscrições
-• encaminhar as inscrições e documentação ao coordenador de curso
-• administrar os editais em andamento
-São atividades do candidato/ professor:
-• selecionar um edital
+ </p>
+<i>Os atores envolvidos são: administrador, coordenador, professor.</i><br>
+<h3>São atividades do administrador:<h3><br>
+• cadastrar editais<br>
+• divulgar os editais para os professores<br>
+• receber as inscrições<br>
+• encaminhar as inscrições e documentação ao coordenador de curso<br>
+• administrar os editais em andamento<br>
+  <h3>São atividades do candidato/ professor:</h3><br>
+• selecionar um edital<br>
 • realizar inscrição: manifestação de interesse (Anexo VI) e planilha de pontuação
-(Anexo IV)
-• enviar Documentação Comprobatória quando solicitado
-• responder à convocação
-São atividades do coordenador de cursos:
-• visualizar inscrições;
+(Anexo IV)<br>
+• enviar Documentação Comprobatória quando solicitado<br>
+• responder à convocação<br>
+<h3>São atividades do coordenador de cursos:<h3><br>
+• visualizar inscrições;<br>
 • verificar documentação enviada (Anexo IV, Anexo VI e Documentos
-Comprobatórios);
-• deferir/indeferir inscrições (Anexo VII);
-• convocar professores (Anexo IX).
-Os editais devem estar disponíveis no portal em seus respectivos cursos:
-• Tecnologia em Desenvolvimento de Software Multiplataforma;
-• Tecnologia em Gestão da Tecnologia da Informação;
-• Tecnologia em Gestão da Produção Industrial;
-• Tecnologia em Gestão Empresarial.
+Comprobatórios);<br>
+• deferir/indeferir inscrições (Anexo VII);<br>
+• convocar professores (Anexo IX).<br>
+  <h3>Os editais devem estar disponíveis no portal em seus respectivos cursos:</h3><br>
+• Tecnologia em Desenvolvimento de Software Multiplataforma;<br>
+• Tecnologia em Gestão da Tecnologia da Informação;<br>
+• Tecnologia em Gestão da Produção Industrial;<br>
+• Tecnologia em Gestão Empresarial.<br>
 Produto
 Sistema web para a divulgação dos editais e a realização das inscrições dos
 professores.
