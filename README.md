@@ -105,7 +105,7 @@ Demonstração<br>
 Retrospectiva<br>
 • Autoavaliação<br>
 • Registro das Lições Aprendidas<br>
-Premissas e Restrições<br>
+<h3>Premissas e Restrições</h3><br>
 • A modelagem inicial e a implementação do frontend foram tratados no PI-1
 e poderão ser reaproveitados.<br>
 • Grupos com até 5 alunos. É recomendável que os grupos do PI-1 sejam
