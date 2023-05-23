@@ -36,7 +36,7 @@ quantidade de editais e não há uma forma automatizada para o registro, divulga
 tratamento desse processo.
  </p>
 <i>Os atores envolvidos são: administrador, coordenador, professor.</i><br>
-<h3>São atividades do administrador:<h3><br>
+<h3>São atividades do administrador:</h3><br>
 • cadastrar editais<br>
 • divulgar os editais para os professores<br>
 • receber as inscrições<br>
@@ -48,7 +48,7 @@ tratamento desse processo.
 (Anexo IV)<br>
 • enviar Documentação Comprobatória quando solicitado<br>
 • responder à convocação<br>
-<h3>São atividades do coordenador de cursos:<h3><br>
+<h3>São atividades do coordenador de cursos:</h3><br>
 • visualizar inscrições;<br>
 • verificar documentação enviada (Anexo IV, Anexo VI e Documentos
 Comprobatórios);<br>
@@ -59,7 +59,7 @@ Comprobatórios);<br>
 • Tecnologia em Gestão da Tecnologia da Informação;<br>
 • Tecnologia em Gestão da Produção Industrial;<br>
 • Tecnologia em Gestão Empresarial.<br>
-Produto
+<p>Produto
 Sistema web para a divulgação dos editais e a realização das inscrições dos
 professores.
 Benefícios
@@ -68,33 +68,36 @@ Facilidade para consultar o status dos editais.
 Aumentar a quantidade de inscrições.
 Otimização do processo de avaliação dos editais.
 Entregas
-02-05
-Kickoff – Apresentação do projeto
-09-05
-Sprint1
+ </p>
+ <hr>
+<p>
+02-05<br>
+Kickoff – Apresentação do projeto<br>
+09-05<br>
+<h3>Sprint1</h3><br>
 • Criação do ambiente de desenvolvimento
 • Planejamento preliminar com o PMCanvas
 • Atualização do material do PI-1: requisitos (histórias de usuário),
 diagrama de casos de uso, modelo de banco de dados.
 16-05
-Sprint2
+<h3>Sprint2</h3><br>
 • Modelagem de processo com o Diagrama de Atividades (UML) ou
 Modelo de Processos de Negócio (BPMN)
 • Modelagem de Classes
 • Recuperação e apresentação de um Edital
 23-05
-Sprint3
+<h3>Sprint3</h3><br>
 • Inscrição para um Edital
 30-05
-Sprint4
+<h3>Sprint4</h3><br>
 • Cadastro de Editais
 • Apresentação da lista de Editais
 • Recuperação e apresentação do status dos Editais
 06-06
-Sprint5
+<h3>Sprint5</h3><br>
 • Recuperação e apresentação das inscrições em um Edital
 13-06
-Sprint6
+<h3>Sprint6</h3><br>
 • Integração, testes e correções
 27-06
 Demonstração
