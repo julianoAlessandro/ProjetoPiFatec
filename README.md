@@ -74,30 +74,30 @@ Entregas
 02-05<br>
 Kickoff – Apresentação do projeto<br>
 09-05<br>
-<h3>Sprint1</h3><br>
+<h3>Sprint1⏱️</h3><br>
 • Criação do ambiente de desenvolvimento<br>
 • Planejamento preliminar com o PMCanvas<br>
 • Atualização do material do PI-1: requisitos (histórias de usuário),<br>
 diagrama de casos de uso, modelo de banco de dados.<br>
 16-05<br>
-<h3>Sprint2</h3><br>
+<h3>Sprint2⏱️</h3><br>
 • Modelagem de processo com o Diagrama de Atividades (UML) ou
 Modelo de Processos de Negócio (BPMN)<br>
 • Modelagem de Classes<br>
 • Recuperação e apresentação de um Edital<br>
 23-05<br>
-<h3>Sprint3</h3><br>
+<h3>Sprint3⏱️</h3><br>
 • Inscrição para um Edital<br>
 30-05<br>
-<h3>Sprint4</h3><br>
+<h3>Sprint4⏱️</h3><br>
 • Cadastro de Editais<br>
 • Apresentação da lista de Editais<br>
 • Recuperação e apresentação do status dos Editais<br>
 06-06<br>
-<h3>Sprint5</h3><br>
+<h3>Sprint5⏱️</h3><br>
 • Recuperação e apresentação das inscrições em um Edital<br>
 13-06<br>
-<h3>Sprint6</h3><br>
+<h3>Sprint6⏱️</h3><br>
 • Integração, testes e correções<br>
 27-06<br>
 Demonstração<br>
