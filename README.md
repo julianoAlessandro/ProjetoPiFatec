@@ -75,48 +75,48 @@ Entregas
 Kickoff – Apresentação do projeto<br>
 09-05<br>
 <h3>Sprint1</h3><br>
-• Criação do ambiente de desenvolvimento
-• Planejamento preliminar com o PMCanvas
-• Atualização do material do PI-1: requisitos (histórias de usuário),
-diagrama de casos de uso, modelo de banco de dados.
-16-05
+• Criação do ambiente de desenvolvimento<br>
+• Planejamento preliminar com o PMCanvas<br>
+• Atualização do material do PI-1: requisitos (histórias de usuário),<br>
+diagrama de casos de uso, modelo de banco de dados.<br>
+16-05<br>
 <h3>Sprint2</h3><br>
 • Modelagem de processo com o Diagrama de Atividades (UML) ou
-Modelo de Processos de Negócio (BPMN)
-• Modelagem de Classes
-• Recuperação e apresentação de um Edital
-23-05
+Modelo de Processos de Negócio (BPMN)<br>
+• Modelagem de Classes<br>
+• Recuperação e apresentação de um Edital<br>
+23-05<br>
 <h3>Sprint3</h3><br>
-• Inscrição para um Edital
-30-05
+• Inscrição para um Edital<br>
+30-05<br>
 <h3>Sprint4</h3><br>
-• Cadastro de Editais
-• Apresentação da lista de Editais
-• Recuperação e apresentação do status dos Editais
-06-06
+• Cadastro de Editais<br>
+• Apresentação da lista de Editais<br>
+• Recuperação e apresentação do status dos Editais<br>
+06-06<br>
 <h3>Sprint5</h3><br>
-• Recuperação e apresentação das inscrições em um Edital
-13-06
+• Recuperação e apresentação das inscrições em um Edital<br>
+13-06<br>
 <h3>Sprint6</h3><br>
-• Integração, testes e correções
-27-06
-Demonstração
+• Integração, testes e correções<br>
+27-06<br>
+Demonstração<br>
 • Apresentação dos resultados obtidos
-Retrospectiva
-• Autoavaliação
-• Registro das Lições Aprendidas
-Premissas e Restrições
+Retrospectiva<br>
+• Autoavaliação<br>
+• Registro das Lições Aprendidas<br>
+Premissas e Restrições<br>
 • A modelagem inicial e a implementação do frontend foram tratados no PI-1
-e poderão ser reaproveitados.
+e poderão ser reaproveitados.<br>
 • Grupos com até 5 alunos. É recomendável que os grupos do PI-1 sejam
 mantidos. Alterações nos grupos devem ser discutidos com os professores
-das disciplinas do PI-2.
+das disciplinas do PI-2.<br>
 • O trabalho será desenvolvido preferencialmente nas aulas da disciplina de
-Engenharia de Software II.
-• Utilização de práticas ágeis, com Sprints semanais.
+Engenharia de Software II.<br>
+• Utilização de práticas ágeis, com Sprints semanais.<br>
 • Especificação dos requisitos no formato de histórias de usuário é
-obrigatória.
+obrigatória.<br>
 • Modelo de casos de uso, Modelo de processos de negócio (UML ou BPMN),
-Modelo de banco de dados e Diagrama de classes são obrigatórios.
-• Implementação do backend com PHP.
+Modelo de banco de dados e Diagrama de classes são obrigatórios.<br>
+• Implementação do backend com PHP.<br>
 
