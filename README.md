@@ -2,7 +2,7 @@
 Projeto realizado ao longo do Semestre para a instituição Fatec
 
 
-<h1>Introdução</h1>
+<h1>Introdução</h1>📓
 <p>
   O Projeto Pedagógico do Curso de Tecnologia em Desenvolvimento de Software
 Multiplataforma (DSM) da FATEC Itapira descreve o desenvolvimento de 6 Projetos
@@ -20,13 +20,13 @@ modelos ágeis de desenvolvimento de software. Está prevista a utilização dos
 </p>
 <hr>
 <h3>recursos:</h3><br>
-• PMCanvas, para planejamento inicial do projeto.<br>
-• Trello ou Jira, para registro e acompanhamento das tarefas do projeto.<br>
-• Github, para repositório do projeto e portifólio do aluno.<br>
-• LucidChart ou StarUML para a elaboração de modelos e diagramas.<br>
-• Oracle Data Modeller para modelagem de banco de dados.<br>
-• HTML, CSS, PHP.<br>
-O resultado do projeto PI-2 será uma aplicação web e a documentação associada.<br>
+✔️• PMCanvas, para planejamento inicial do projeto.<br>
+✔️• Trello ou Jira, para registro e acompanhamento das tarefas do projeto.<br>
+✔️• Github, para repositório do projeto e portifólio do aluno.<br>
+✔️• LucidChart ou StarUML para a elaboração de modelos e diagramas.<br>
+✔️• Oracle Data Modeller para modelagem de banco de dados.<br>
+✔️• HTML, CSS, PHP.<br>
+<b>O resultado do projeto PI-2 será uma aplicação web e a documentação associada.</b><br>
 <h3>Tema:</h3>
 <p>
 • Portal para Editais de Ampliação de Aulas para a Fatec Itapira
@@ -105,7 +105,7 @@ Demonstração<br>
 Retrospectiva<br>
 • Autoavaliação<br>
 • Registro das Lições Aprendidas<br>
-<h3>Premissas e Restrições</h3><br>
+<h3>Premissas e Restrições</h3><br>🤔
 • A modelagem inicial e a implementação do frontend foram tratados no PI-1
 e poderão ser reaproveitados.<br>
 • Grupos com até 5 alunos. É recomendável que os grupos do PI-1 sejam
