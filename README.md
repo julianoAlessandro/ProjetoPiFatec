@@ -2,7 +2,7 @@
 
 Projeto realizado ao longo do Semestre para a instituição Fatec
 <h1>📚 Fatec Itapira - "Dr. Ogari de Castro Pacheco" </h1>
-<h2>Portal de Edital</h2>
+<h2>Portal de Editais</h2>
 <img src= "https://github.com/julianoAlessandro/ProjetoPiFatec/assets/111141842/8c1122f0-8af1-4e07-9f6c-88ff538a2c5d" width="450px">
 
 <h2>Objetivo do Trabalho🎯</h2>
@@ -122,4 +122,7 @@ obrigatória.<br>
 • Modelo de casos de uso, Modelo de processos de negócio (UML ou BPMN),
 Modelo de banco de dados e Diagrama de classes são obrigatórios.<br>
 • Implementação do backend com PHP.<br>
+<h2>Conheça nosso time de desenvolvedores🖥️👨‍💻</h2>
+<img src = "https://github.com/julianoAlessandro/ProjetoPiFatec/assets/111141842/62492eff-458c-45d8-a2b1-97b5d934fbba" width = 500px>
+
 
