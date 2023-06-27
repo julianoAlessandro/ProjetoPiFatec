@@ -123,6 +123,6 @@ obrigatória.<br>
 Modelo de banco de dados e Diagrama de classes são obrigatórios.<br>
 • Implementação do backend com PHP.<br>
 <h2>Conheça nosso time de desenvolvedores🖥️👨‍💻</h2>
-<img src = "https://github.com/julianoAlessandro/ProjetoPiFatec/assets/111141842/62492eff-458c-45d8-a2b1-97b5d934fbba" width = 500px>
+<img src = "https://github.com/julianoAlessandro/ProjetoPiFatec/assets/111141842/62492eff-458c-45d8-a2b1-97b5d934fbba" width = 600px>
 
 
