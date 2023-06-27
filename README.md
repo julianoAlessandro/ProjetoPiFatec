@@ -1,7 +1,7 @@
 # ProjetoPiFatec
 
 Projeto realizado ao longo do Semestre para a instituição Fatec
-
+<h1>Conheça o nosso Time de Dsenvolvedores!👨‍💻</h1>
 <h1>📚 Fatec Itapira - "Dr. Ogari de Castro Pacheco" </h1>
 <h2>Objetivo do Trabalho🎯</h2>
 <p>
