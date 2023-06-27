@@ -3,7 +3,7 @@
 Projeto realizado ao longo do Semestre para a instituição Fatec
 
 <h1>📚 Fatec Itapira - "Dr. Ogari de Castro Pacheco" </h1>
-<h2>Introdução📓</h2>
+<h2>Objetivo do Trabalho🎯</h2>
 <p>
   O Projeto Pedagógico do Curso de Tecnologia em Desenvolvimento de Software
 Multiplataforma (DSM) da FATEC Itapira descreve o desenvolvimento de 6 Projetos
@@ -20,7 +20,7 @@ Para o desenvolvimento do PI serão empregados conhecimentos práticos dos
 modelos ágeis de desenvolvimento de software. Está prevista a utilização dos seguintes
 </p>
 <hr>
-<h3>recursos:</h3><br>
+<h3>Ferramentas e Linguagens:</h3><br>
 ✔️• PMCanvas, para planejamento inicial do projeto.<br>
 ✔️• Trello ou Jira, para registro e acompanhamento das tarefas do projeto.<br>
 ✔️• Github, para repositório do projeto e portifólio do aluno.<br>
