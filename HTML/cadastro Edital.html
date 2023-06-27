@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Cadastro Edital</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="scripts/regras.css"> 
+	</head>
+	<body>
+		<div id="topo">
+	        <div class="cabeçario">
+	            <img src="img/sp2.png" class="cab1">
+	        </div>
+
+	        <div class="cabeçario">
+	            <img src="img/fatec2.png" class="cab2">
+	        </div>
+
+	        <div class="cabeçario">
+	            <img src="img/itapira2.png" class="cab3">
+	        </div>
+	    </div>
+
+	    <div class="separacao2"></div>
+
+	    <a href="cadastro Edital.html">
+	        <div class="começo">
+	            <p>Cadastar Edital</p>
+	        </div>
+	    </a>
+
+	    <a href="fazer errata.html">
+	        <div class="começo">
+	            <p>Fazer Errata</p>
+	        </div>
+	    </a>
+
+	    <a href="visualizar candidatos inscritos.html">
+	        <div class="começo">
+	            <p>Visualizar Candidatos Inscritos</p>
+	        </div>
+	    </a>
+
+	    <a href="sair.html">
+	        <div class="começo">
+	            <p>Sair</p>
+	        </div>
+	    </a>
+
+		<h1 class="h1">Cadastro de Edital</h1>
+
+		<form action="cadastroGravar.php" method="Post" class="corpoEdital"> 
+			<label for="nome" class="label">Nº Edital</label>
+			<input type="text" name="nºedital" class="input"> <br><br>
+			
+			<label for="curso" class="label">Curso</label>
+			<select class="input" name="curso">
+				<option value="Selecionar" selected> Selecione... </option>
+			    <option>Gestão Tecnologia da Informação</option>
+				<option>Desenvolvimento de Software Multiplataforma</option>
+				<option>Gestão Empresarial</option>
+				<option>Gestão Produção Industrial</option>
+			</select> <br><br>
+				
+			<label for="disciplina" class="label">Nome Disciplina</label>
+			<select class="input" name="disciplina">
+				<option value="Selecionar" selected> Selecione... </option>
+			    <option > Algoritmos e Lógica de Programação </option>
+				<option > Desenvolvimento Web I </option>
+				<option > Design Digital </option>
+				<option > Engenharia de Software </option>
+			</select> <br><br>
+			
+			<label for="carga horaria" class="label">Carga Horária</label>
+			<select class="input" name="cargaH">
+				<option value="Selecionar" selected> Selecione... </option>
+			    <option>4h/a</option>
+				<option>2h/a</option>
+			</select> <br><br>
+
+			<label for="horario" class="label">Horário</label>
+			<select class="input" name="horario">
+				<option value="Selecionar" selected> Selecione... </option>
+			    <option>Segunda-feira das 19h00 às 20h40</option>
+			    <option>Terça-feira das 19h00 às 22h30</option>
+				<option>Quarta-feira das 19h00 às 22h30</option>
+				<option>Quinta-feira das 19h00 às 22h30</option>
+				<option>Sexta-feira das 19h00 às 20h40</option>
+				<option>Sábado das 9h30 às 12h50</option>
+			</select> <br><br>
+
+			<label for="prazo" class="label">Prazo</label>
+			<select class="input" name="prazo">
+				<option value="Selecionar" selected> Selecione... </option>
+			    <option>Ind.</option>
+			    <option>Det.</option>
+			</select> <br><br>
+
+		</form> 
+
+		<div class="upload">
+			<input type="hidden" name="MAX_FILE_SIZE" value="4194304" /><!-- 4194304 = 4GB -->
+				<script>
+					function mostra() {	
+						var file = document.getElementById('arquivo').value;
+						document.getElementById('img').setAttribute('src', file);
+					}
+				</script>
+
+			<div class="visualizar">
+				<img src="" id="img"/>
+			</div><br><br>
+			<input type="file" id="arquivo" onchange="mostra()" /><br><br>
+		    <input type="submit" value="Cadastrar Edital">
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="regras.css">
+    <title>Login</title>
+    <style>
+    	.estilo{
+		    margin-top: 50px;
+		    margin-right: 100px;
+		    margin-left: 50px;
+		    margin-bottom: 50px;
+		    position: relative;
+		    height: 200px;
+		    position: sticky;
+		    background-color: #d0d0d0;
+		    text-align: center;
+		    align-items: center;
+		    justify-content : center;
+		}
+		.logo{
+		    float: left;
+		    height: 150px;
+		    width: 300px;
+		    margin-bottom: 30px;
+		}
+		.login{
+		    background-image: url(img/fundo.jpg);
+		    background-size: 100%;
+		}
+		.entrar{
+		    float: right;
+		    position: relative;
+		    border-radius: 10px;
+		    height: 400px;
+		    width: 500px;
+		    max-width: 1450px;
+		    position: sticky;
+		    margin-top: 100px; /* altura que está do topo */
+		    margin-right: 100px; /* distancia em que está da lateral*/
+		    margin-bottom: 100px;
+		    background-color: #d0d0d0;
+		    text-align: center;
+		    align-items: center;
+		    justify-content : center;
+		}
+		.separacao{
+			height: 10px;
+			width: 10px;
+		}
+		.usuario{
+			margin-left: 50px;
+
+		}
+		a{
+			color: black;
+		}
+    </style>
+</head>
+<body class="login">
+
+	<div class="entrar">
+
+		<div class="estilo">
+			<form action="usuario-login.php" method="POST">
+
+				<figure>
+
+					<img src="img/fatec3.jpg" class="logo">
+
+				</figure>
+
+				<br class="separacao"><br>
+
+				<div class="usuario">
+
+					<input class="input1" type="email" name="usuario" id="email" placeholder="Login" required>
+
+					<br><br>	
+
+					<input class="input1" type="password" name="senha" placeholder="Senha" id="password" required>
+
+					<br>
+
+					<a class="link" href="cadastro.html">Esqueci minha senha</a>
+
+					<br><br>
+
+					<input type="submit" value="LOGAR">
+
+				</div>
+
+			</form>
+		</div>
+	</div>
+</body>
+</html>
