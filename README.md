@@ -1,8 +1,10 @@
 # ProjetoPiFatec
 
 Projeto realizado ao longo do Semestre para a instituição Fatec
-<h1>Conheça o nosso Time de Dsenvolvedores!👨‍💻</h1>
 <h1>📚 Fatec Itapira - "Dr. Ogari de Castro Pacheco" </h1>
+<h2>Portal de Edital</h2>
+<img src= "https://github.com/julianoAlessandro/ProjetoPiFatec/assets/111141842/8c1122f0-8af1-4e07-9f6c-88ff538a2c5d">
+
 <h2>Objetivo do Trabalho🎯</h2>
 <p>
   O Projeto Pedagógico do Curso de Tecnologia em Desenvolvimento de Software
