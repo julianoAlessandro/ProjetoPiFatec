@@ -128,5 +128,6 @@ Modelo de banco de dados e Diagrama de classes são obrigatórios.<br>
   <ul>
 <li><a href="https://github.com/timendonca">Tifani Mendonça</a></li>
 <li><a href="https://github.com/RadmilaLopes">Radmila Lopes</a></li>
+ <li><a href="https://github.com/laurapsantana">Laura Santana</a></li>
   </ul>
 
